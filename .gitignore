@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+data/processed/
+data/geo_cache.json
+serving/dashboard.html
